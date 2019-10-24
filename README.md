@@ -6,8 +6,10 @@ Please download Anaconda and build a python env of 3.6.9
 # Install Jupyter
 conda install jupyter
 
+jupyter notebook
+
 # packages needed
-pip -r requirements.txt
+pip install -r requirements.txt
 
 # dataset
 https://pan.baidu.com/s/1aPY7Ppt5zNGDi84J6wmBFA 
