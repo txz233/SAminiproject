@@ -1,6 +1,3 @@
-# SAminiproject
-Mini project in revision session
-
 
 # Environment
 Please download Anaconda and build a python env of 3.6.9
@@ -26,7 +23,7 @@ Please put the dataset folder 'input' and the model into the same directory as t
 # Instruction
 For trials of training the model, ignore the 'Run model directly' part and top 2 scripts under '预测数据集'
 
-For trials of load the trained model, ignore the sessions from '网络结构' to '训练过程'
+For trials of loading the trained model, ignore the sessions from '网络结构' to '训练过程'
 
 # Notice!
 Restart the kernel before each time of trial
