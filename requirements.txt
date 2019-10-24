@@ -1,0 +1,11 @@
+numpy
+scipy
+tensorflow-gpu==1.14.0
+sklearn
+tqdm
+h5py
+keras
+imgaug
+seaborn
+opencv-python
+
